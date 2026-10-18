@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-10-18T19:01:20+00:00",
+  "updated_at": "2026-10-18T21:25:48+00:00",
   "items": [
     {
+      "title": "مباحثات سورية مع البنك الدولي حول الصندوق متعدد المانحين لدعم التعافي في سوريا",
+      "description": "بحث وزير المالية محمد يسر برنية وحاكم مصرف سوريا المركزي صفوت رسلان مع وفد رفيع المستوى من البنك الدولي، برئاسة عثمان ديون نائب رئيس البنك الدولي لمنطقة الشرق الأوسط وشمال أفريقيا وأفغانستان وباكستان، والمديرة الإقليمية في البنك داليا خليفة، التقدم في إنشاء صندوق متعدد المانحين لدعم التعافي وإعادة الإعمار في سوريا.",
+      "url": "https://sana.sy/economy/2611010/",
+      "source": "سانا",
+      "source_home": "https://sana.sy",
+      "feed": "سانا",
+      "published_at": "2026-10-18T21:14:57+00:00",
+      "province": "أخبار عامة",
+      "image_url": "https://cdn.sananews.sy/2026/10/IMG_20261018_234348_241-1024x683.jpg",
+      "local_image_url": "images/news/2a7ce3fb0122b24ea6eee947.webp"
+    },
+    {
       "title": "برلماني سوري لرووداو: القانون 41 لعام 2004 حرم قسماً من كورد الجزيرة وكوباني وعفرين من أملاكهم - Rudaw",
-      "description": "برلماني سوري لرووداو: القانون 41 لعام 2004 حرم قسماً من كورد الجزيرة وكوباني وعفرين من أملاكهم Rudaw.. لا تتوفر تفاصيل كافية في موجز المصدر؛ افتح الرابط الأصلي لقراءة الخبر كاملًا.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3aW14aDltZnE0TmYtSHY1OWt2M2RQNlV1VVQ2NDJHUUFHUGZ2NFh1UmZfZGtITDVuU0FkdzI2aHNQVXp6cnVPZUo0a0gzdWE5NDdNV2pVd0xhZlU?oc=5",
+      "description": "برلماني سوري لرووداو: القانون 41 لعام 2004 حرم قسماً من كورد الجزيرة وكوباني وعفرين من أملاكهم Rudaw. لا تتوفر تفاصيل كافية في موجز المصدر؛ افتح الرابط الأصلي لقراءة الخبر كاملًا.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FMzNuYmQ4SFdYbnFhMWpRd2doaWVjRWJSYU5HYkZ2YXdCeEpxUV8yT2ZJMjVScHdCenNxT21QUXFiQTc1Sm9VMzBjcHJTd2x2ZXFmYTA5aDBvTVlTdzVMSkdB?oc=5",
       "source": "Rudaw",
       "source_home": "http://rudaw.net",
       "feed": "روداو عربي",
