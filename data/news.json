@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-20T06:43:54+00:00",
+  "updated_at": "2026-10-20T12:17:25+00:00",
   "items": [
     {
       "title": "الزراعة التجديدية في سوريا.. هل تخفف أزمة المياه وتكاليف الإنتاج؟",
-      "description": "قال خبراء في المجال الزراعي إن تطبيق هذا النهج يمكن أن يسهم في تعزيز قدرة الأراضي الزراعية على التكيف مع الظروف المناخية، والحد من استنزاف الموارد",
+      "description": "قال خبراء في المجال الزراعي إن تطبيق هذا النهج يمكن أن يسهم في تعزيز قدرة الأراضي الزراعية على التكيف مع الظروف المناخية، والحد من استنزاف الموارد.",
       "url": "https://www.syria.tv/%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%87%D9%84-%D8%AA%D8%AE%D9%81%D9%81-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87-%D9%88%D8%AA%D9%83%D8%A7%D9%84%D9%8A%D9%81-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC%D8%9F",
       "source": "تلفزيون سوريا",
       "source_home": "https://www.syria.tv",
@@ -36,6 +36,18 @@
       "province": "أخبار عامة",
       "image_url": "https://cdn.sananews.sy/2026/10/123-1-1024x768.jpg",
       "local_image_url": "images/news/a6957efc67211522b1f12465.webp"
+    },
+    {
+      "title": "Syria Splits Industry from Economy Ministry in Latest Government Shake‑Up",
+      "description": "The decision comes at a moment when Syria is struggling to revive its industrial base, attract capital and restore economic activity after years of conflict, sanctions and widespread destruction. The post Syria Splits Industry from Economy Ministry in Latest Government Shake‑Up first appeared on The Syrian Observer.",
+      "url": "https://syrianobserver.com/society/syria-splits-industry-from-economy-ministry-in-latest-government-shake-up.html",
+      "source": "The Syrian Observer",
+      "source_home": "",
+      "feed": "The Syrian Observer",
+      "published_at": "2026-10-19T21:02:22+00:00",
+      "province": "أخبار عامة",
+      "image_url": "https://syrianobserver.com/wp-content/uploads/2026/10/Syria-Separates-Industry-from-Economy-Ministry-in-Government-Reshuffle.webp",
+      "local_image_url": "images/news/50e4d5e491d3ae2f43f1e64b.webp"
     },
     {
       "title": "اكتشافات أثرية جديدة في تل السمهانة باللاذقية تعود إلى العصر البرونزي",
