@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-11-13T17:41:02+00:00",
+  "updated_at": "2026-11-13T22:53:38+00:00",
   "items": [
+    {
+      "title": "الشركة السورية للكهرباء تكشف أسباب زيادة ساعات التقنين في المحافظات",
+      "description": "أرجعت الشركة السورية للكهرباء زيادة ساعات التقنين الكهربائي في مختلف المحافظات السورية إلى تراجع كميات التوليد، نتيجة خروج محطة تشرين عن الخدمة",
+      "url": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%AA%D9%83%D8%B4%D9%81-%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA",
+      "source": "تلفزيون سوريا",
+      "source_home": "https://www.syria.tv",
+      "feed": "تلفزيون سوريا",
+      "published_at": "2026-11-13T22:18:14+00:00",
+      "province": "أخبار عامة",
+      "image_url": "https://www.syria.tv/sites/default/files/styles/detailed_thumb_/public/2026-11/2L6A6082-1-860x573-1_0.jpg?itok=wR48IEHY",
+      "local_image_url": "images/news/f4d861f994285ffb5367f0c7.webp"
+    },
     {
       "title": "سوريا تعرب عن تعازيها لتركيا إثر تحطم طائرة عسكرية ووفاة أفراد طاقمها",
       "description": "أعربت الجمهورية العربية السورية عن تعازيها الصادقة ومواساتها لحكومة وشعب الجمهورية التركية الصديقة إثر تحطم طائرة عسكرية، ووفاة أفراد طاقمها.",
@@ -16,12 +28,14 @@
     {
       "title": "غادرت دمشق قبل سقوط الأسد بأيام.. سوريا تستعيد طائرة \"إليوشن\" من ليبيا - الجزيرة نت",
       "description": "غادرت دمشق قبل سقوط الأسد بأيام. سوريا تستعيد طائرة \"إليوشن\" من ليبيا الجزيرة نت. لا تتوفر تفاصيل كافية في موجز المصدر؛ افتح الرابط الأصلي لقراءة الخبر كاملًا.",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQQlFnaHFOY3ZxTmRwT18tUVhoaE9IV2tJQ3hwSEt3clJNMnltekZPMTVURnE4Um9EMEM4N19GV1V5c0Y4Nk01ZExveTd1LVhQUWZoYUZ5aS1BaVJrX2JXOWxKOVI0Y0hSRzJmR1UwX2ViUENIQmRvU1ZVTnpiTWNwSy02VTZWQkx1N1p1UHJTZks1RUd0OFAxWFFOa0M3eEprV3RkRWFzeEU1VnlZYkFCUlhKUktMTEg5VTVFR0g2YVNLUkVuMVE5dEhQY2pORXVpOC05RGxSdmpUNndlamFGbll6Q1VGVHktUFRWOFRYWWhfQl9FdHViR29fYWRsNzRfNTA5UDZSR09XaGRycktSUk91Z2xsZlVtRFF4X2wwRmRvaXk3ZGxKRkEzeHJVaml2Zk9ia2pKdHdTWDNLaWhtYVFSY1lKT3BMUmEtbkl4UVBZZjN0?oc=5",
+      "url": "https://www.aljazeera.net/news/2026/11/13/%d8%ba%d8%a7%d8%af%d8%b1%d8%aa-%d8%af%d9%85%d8%b4%d9%82-%d9%82%d8%a8%d9%84-%d8%b3%d9%82%d9%88%d8%b7-%d8%a7%d9%84%d8%a3%d8%b3%d8%af-%d8%a8%d8%a3%d9%8a%d8%a7%d9%85-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7",
       "source": "الجزيرة نت",
       "source_home": "https://www.aljazeera.net",
       "feed": "الجزيرة",
       "published_at": "2026-11-13T09:43:55+00:00",
-      "province": "دمشق"
+      "province": "دمشق",
+      "image_url": "https://www.aljazeera.net/wp-content/uploads/2026/11/2468sh4sy-1794560659.jpeg?resize=1920%2C1280&quality=80",
+      "local_image_url": "images/news/90d1873dbd85e085939293a6.webp"
     },
     {
       "title": "سوريا تشارك في نداء دولي لإدخال المساعدات وتوفير الرعاية الصحية في غزة",
